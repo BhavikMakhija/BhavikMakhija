@@ -1,6 +1,7 @@
 ### Hello👋 
 
-
+- 😄 My name is Bhavik Makhija and I am currently a high school student
+- 🔭 I’m currently working on my first ever discord bot
 <!--
 **BhavikMakhija/BhavikMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
