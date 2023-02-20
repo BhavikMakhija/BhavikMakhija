@@ -1,7 +1,7 @@
 ### Hello👋 
 
-- 😄 My name is Bhavik Makhija and I am currently a high school student
-- 🔭 I’m currently working on my first ever discord bot
+- 😄 My name is Bhavik Makhija and I am currently a computer science student at the University of Waterloo
+- 🌱 I’m currently learning to use cloud computing platforms such as AWS
 <!--
 **BhavikMakhija/BhavikMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
